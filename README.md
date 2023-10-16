@@ -1,0 +1,1 @@
+curl -sL https://raw.githubusercontent.com/mendylivium/docker-ubuntu/master/install.sh | sudo bash
