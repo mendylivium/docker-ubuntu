@@ -16,5 +16,5 @@ echo "Docker repository added to Apt sources successfully."
 # Install Docker
 echo "Installing Docker..."
 sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-echo "Docker installed successfully.
+echo "Docker installed successfully."
 exec "$@"
