@@ -6,6 +6,4 @@ sudo apt-get install -y ca-certificates curl gnupg
 
 Then this
 ```
-curl -sL https://raw.githubusercontent.com/mendylivium/docker-ubuntu/master/install.sh | sudo bash -s dbpassword
-```
-Replace "dbpassword" with your desired database password
+curl -sL https://raw.githubusercontent.com/mendylivium/docker-ubuntu/master/install.sh | sudo bash
